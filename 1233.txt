@@ -1,2 +1,5 @@
 print(a);
 print(B);
+print(v);
+
+print(c)
